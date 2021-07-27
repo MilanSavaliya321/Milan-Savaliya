@@ -4,19 +4,18 @@
   
 </p>
 
-# Hi guys 👋  I'm Ashfaque Ali
+# Hi guys 👋  I'm Milan Savaliya
 
 
 
 
 
-- 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
-- 🌱 I’m currently learning React JS
+- 🔭 At that movement I am BCA (Bachelors of Computer Application) graduate.
+- 🌱 I’m currently learning Ios/Swift
 - 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: aliashfak178@gmail.com
+- 💬 Ask me about **Swift** **Android-Java** **Laravel**
+- 📫 How to reach me: milansavaliya321@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +29,5 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 </p>
-
-----
-Credit: [aliashfak178](https://github.com/aliashfak178)
 
 Last Edited on: 26/01/2021
