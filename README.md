@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Social:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/milan-savaliya/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://uk.linkedin.com/in/milan-savaliya-ios-developer" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
